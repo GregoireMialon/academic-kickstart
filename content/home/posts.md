@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 300  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = ""
+subtitle = "Notes I wrote (in French) for the [Group for Geopolitical Studies.](https://legrandcontinent.eu/fr/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
