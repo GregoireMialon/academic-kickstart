@@ -2,26 +2,26 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Screening Data Points in Empirical Risk Minimization"
-event: "eXplain Data Meeting"
+event: 
 event_url:
-location: Paris
+location: eXplain, Paris
 address:
   street:
   city: 
   region:
   postcode:
   country:
-summary: eXplain Data Meeting
+summary: Presentation of the paper Screening Data Points in Empirical Risk Minimization for the eXplain Data Meeting.
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-10-10T00:00:00+00:00
 # date_end: 2020-02-10T17:14:52+01:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-02-10T17:14:52+01:00
+#publishDate: 2020-02-10T17:14:52+01:00
 
 authors: []
 tags: []

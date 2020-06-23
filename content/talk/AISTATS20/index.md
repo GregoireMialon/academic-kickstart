@@ -2,26 +2,26 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Screening Data Points in Empirical Risk Minimization"
-event:
+event: AISTATS 2020, online talk
 event_url:
-location: Gatsby Unit, UCL, London
+location: AISTATS 2020, online talk
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: Presentation of the paper Screening Data Points in Empirical Risk Minimization for the Gatsby Journal Club.
+summary: Online presentation of the accepted paper Screening Data Points in Empirical Risk Minimization for AISTATS 2020.
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-12-16
-#date_end: 2020-02-10T17:15:01+01:00
-all_day: true 
+date: 2020-08-26T11:15:23+02:00
+# date_end: 2020-06-22T11:15:23+02:00
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-02-10T17:15:01+01:00
+publishDate: 2020-06-22T11:15:23+02:00
 
 authors: []
 tags: []

@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Machine Learning
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -23,19 +23,20 @@ organizations:
 bio: My name is Grégoire and I am currently a second-year PhD Student at Inria and Ecole Normale Supérieure (Paris), where I am co-advised by Julien Mairal and Alexandre d'Aspremont. 
 
 interests:
-- Machine learning (Kernel Methods, Deep Learning) 
+- Machine learning (Kernel Methods, Deep Learning)
+- Natural Language Processing 
 - Optimization
 - Technology policies and Entrepreneurship
 
 education:
   courses:
-  - course: PhD Student in Artificial Intelligence
+  - course: PhD in Machine Learning 
     institution: Inria 
-    year: 2018
-  - course: MS degree in Mathematics, Vision, Learning (MVA)
+    year:
+  - course: MSc in Machine Learning (MVA)
     institution: ENS Paris-Saclay
     year: 2018 
-  - course: MS degree in Theoretical Physics, Business Studies
+  - course: Diplôme d'Ingénieur (Theoretical Physics, Business Studies)
     institution: École polytechnique
     year: 2017
   - course: Research Intern
@@ -61,9 +62,9 @@ social:
   link: https://github.com/GregoireMialon 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

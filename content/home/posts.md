@@ -36,7 +36,7 @@ subtitle = "Notes I wrote (in French) for the [Group for Geopolitical Studies.](
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -57,7 +57,10 @@ subtitle = "Notes I wrote (in French) for the [Group for Geopolitical Studies.](
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
+[design.spacing]
+ padding = ["40px", "0", "40px", "0"]  
+
 [advanced]
  # Custom CSS. 
  css_style = ""

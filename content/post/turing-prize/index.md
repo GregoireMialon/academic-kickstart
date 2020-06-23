@@ -16,8 +16,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Yann LeCun, Geoffrey Hinton, Yoshua Bengio. Image credit: Facebook, Google, Girls know Tech."
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).
