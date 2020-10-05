@@ -25,7 +25,8 @@ bio: My name is Grégoire and I am currently a second-year PhD Student at Inria 
 interests:
 - Machine learning (Kernel Methods, Deep Learning)
 - Natural Language Processing 
-- Optimization
+- Causality 
+- Convex Optimization
 - Technology policies and Entrepreneurship
 
 education:
@@ -76,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a second-year PhD Student in Machine Learning in the [Sierra research team](https://www.di.ens.fr/sierra/index.php) at [Inria](https://www.inria.fr/fr), where I am co-advised by [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) and [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon/). I also depend on Inria [Thoth research team](https://thoth.inrialpes.fr/). My PhD focuses on designing learning algorithms requiring less labelled data. I am also interested in optimization and its interfaces with machine learning. Finally, I am curious about technology and its implications in politics and entrepreneurship. I sometimes write on these subjects for the [Group for Geopolitical Studies](https://legrandcontinent.eu/fr/), a european think-tank hosted at [École normale supérieure](https://www.ens.fr/).
+I am a third-year PhD Student in Machine Learning in the [Sierra research team](https://www.di.ens.fr/sierra/index.php) at [Inria](https://www.inria.fr/fr), where I am co-advised by [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) and [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon/). I also depend on Inria [Thoth research team](https://thoth.inrialpes.fr/). My PhD focuses on designing data-efficient learning algorithms, e.g, in natural language processing (NLP), using tools from kernel methods, or convex optimization. I am also interested in causality and its interfaces with machine learning. Finally, I am curious about technology and its implications in politics and entrepreneurship. I sometimes write on these subjects for the [Group for Geopolitical Studies](https://legrandcontinent.eu/fr/), a european think-tank hosted at [École normale supérieure](https://www.ens.fr/).
