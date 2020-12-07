@@ -1,27 +1,27 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Screening Data Points in Empirical Risk Minimization"
-event: 
+title: "A Trainable Optimal Transport Embedding for Feature Aggregation"
+event:
 event_url:
-location: AISTATS 2020, Virtual 
+location: IIBPSL Workshop, NeurIPS 2020, Virtual
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: Online presentation of the accepted paper Screening Data Points in Empirical Risk Minimization for AISTATS 2020.
+summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-08-26T11:15:23+02:00
-# date_end: 2020-06-22T11:15:23+02:00
-all_day: true
+date: 2020-12-07T20:06:39+01:00
+date_end: 2020-12-07T20:06:39+01:00
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-06-22T11:15:23+02:00
+publishDate: 2020-12-07T20:06:39+01:00
 
 authors: []
 tags: []

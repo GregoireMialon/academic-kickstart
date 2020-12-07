@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "An Optimal Transport Kernel for Feature Aggregation and its Relationship to Attention"
+title: "A Trainable Optimal Transport Embedding for Feature Aggregation"
 authors: [G. Mialon*, D. Chen*, A. d'Aspremont, J. Mairal]
 date: 2020-06-22T11:09:52+02:00
 doi: ""
@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: "preprint arXiv:2006.12065"
 publication_short: ""
 
-abstract: "We introduce a kernel for sets of features based on an optimal transport distance, along with an explicit embedding function. Our approach addresses the problem of feature aggregation, or pooling, for sets that exhibit long-range dependencies between their members. More precisely, our embedding aggregates the features of a given set according to the transport plan between the set and a reference shared across the data set. Unlike traditional hand-crafted kernels, our embedding can be optimized for a specific task or data set. It also has a natural connection to attention mechanisms in neural networks, which are commonly used to deal with sets, yet requires less data. Our embedding is particularly suited for biological sequence classification tasks and shows promising results for natural language sequences. We provide an implementation of our embedding that can be used alone or as a module in larger learning models. Our code is freely available at https://github.com/claying/OTK."
+abstract: "We address the problem of learning on large sets of features, motivated by the need of performing pooling operations in long biological sequences of varying sizes, with long-range dependencies, and possibly few labeled data. To address this challenging task, we introduce a parametrized embedding that aggregates the features from a given set according to the optimal transport plan between the set and a trainable reference. Our approach scales to large datasets and allows end-to-end training of the reference, while also providing a simple unsupervised learning mechanism with small computational cost. Our aggregation technique admits two useful interpretations: it may be seen as a mechanism related to attention layers in neural networks, yet that requires less data, or it may be seen as a scalable surrogate of a classical optimal transport-based kernel. We experimentally demonstrate the effectiveness of our approach on biological sequences, achieving state-of-the-art results for protein fold recognition and detection of chromatin profiles tasks, and, as a proof of concept, we show promising results for processing natural language sequences. We provide an open-source implementation of our embedding that can be used alone or as a module in larger learning models. Our code is freely available at https://github.com/claying/OTK."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2006.12065
+  url:  https://arxiv.org/abs/2006.12065
 #  icon_pack: fab
 #  icon: twitter
 
