@@ -4,7 +4,7 @@
 title: "La stratégie du Royaume-Uni sur l’IA remet en question la fuite des cerveaux vers les États-Unis"
 subtitle: "Alors que le Royaume-Uni, après la France et l’Allemagne, annonce sa stratégie vouée à combler son manque de main-d’oeuvre qualifiée en IA, le Department of Defense américain choisit de collaborer avec des entités académiques ou privées dont un grand nombre de membres sont européens ou asiatiques. [Lire l'intégralité de la note.](https://legrandcontinent.eu/fr/2019/03/24/la-strategie-du-royaume-uni-sur-lia-remet-en-question-la-fuite-des-cerveaux-vers-les-etats-unis/)"
 summary: "Alors que le Royaume-Uni, après la France et l’Allemagne, annonce sa stratégie vouée à combler son manque de main-d’oeuvre qualifiée en IA, le Department of Defense américain choisit de collaborer avec des entités académiques ou privées dont un grand nombre de membres sont européens ou asiatiques."
-authors: [G. Mialon]
+authors: [Grégoire Mialon]
 tags: []
 categories: []
 date: 2019-03-24T14:21:41+01:00

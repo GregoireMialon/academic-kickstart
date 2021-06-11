@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A Trainable Optimal Transport Embedding for Feature Aggregation"
+title: "How Natural Language Processing is reshaping Machine Learning"
 event:
 event_url:
-location: IIBPSL Workshop, NeurIPS 2020, Virtual
+location: Paris Natural Language Processing Meetup, Virtual
 address:
   street:
   city:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-12-07T20:06:39+01:00
-# date_end: 2020-12-07T20:06:39+01:00
+date: 2021-02-04T20:28:56+01:00
+#date_end: 2021-01-12T20:28:56+01:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-12-07T20:06:39+01:00
+publishDate: 2021-01-12T20:28:56+01:00
 
 authors: []
 tags: []

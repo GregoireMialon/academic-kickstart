@@ -20,7 +20,7 @@ organizations:
 - name: Inria Thoth
   url: "https://thoth.inrialpes.fr/"
 # Short bio (displayed in user profile at end of posts)
-bio: My name is Grégoire and I am currently a second-year PhD Student at Inria and Ecole Normale Supérieure (Paris), where I am co-advised by Julien Mairal and Alexandre d'Aspremont. 
+bio: My name is Grégoire and I am currently a third-year PhD Student at Inria and Ecole Normale Supérieure (Paris), where I am co-advised by Julien Mairal and Alexandre d'Aspremont. 
 
 interests:
 - Machine learning (Kernel Methods, Deep Learning)
