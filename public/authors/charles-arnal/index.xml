@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Arnal | Grégoire Mialon</title>
+    <link>https://GregoireMialon.github.io/authors/charles-arnal/</link>
+      <atom:link href="https://GregoireMialon.github.io/authors/charles-arnal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Arnal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 14:02:16 +0200</lastBuildDate>
+    <image>
+      <url>https://GregoireMialon.github.io/images/icon_hu724016fbcd0c8098ec14eb22a3f2bfcd_9874_512x512_fill_lanczos_center_2.png</url>
+      <title>Charles Arnal</title>
+      <link>https://GregoireMialon.github.io/authors/charles-arnal/</link>
+    </image>
+    
+    <item>
+      <title>L&#39;oeil d&#39;Apple dans nos iPhones ?</title>
+      <link>https://GregoireMialon.github.io/post/apple/</link>
+      <pubDate>Fri, 15 Apr 2022 14:02:16 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/post/apple/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

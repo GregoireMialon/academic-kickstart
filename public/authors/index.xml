@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Grégoire Mialon</title>
+    <link>https://GregoireMialon.github.io/authors/</link>
+      <atom:link href="https://GregoireMialon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 14:02:16 +0200</lastBuildDate>
+    <image>
+      <url>https://GregoireMialon.github.io/images/icon_hu724016fbcd0c8098ec14eb22a3f2bfcd_9874_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://GregoireMialon.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Charles Arnal</title>
+      <link>https://GregoireMialon.github.io/authors/charles-arnal/</link>
+      <pubDate>Fri, 15 Apr 2022 14:02:16 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/charles-arnal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grégoire Mialon</title>
+      <link>https://GregoireMialon.github.io/authors/gregoire-mialon/</link>
+      <pubDate>Fri, 15 Apr 2022 14:02:16 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/gregoire-mialon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Chen</title>
+      <link>https://GregoireMialon.github.io/authors/d.-chen/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/d.-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Mialon*</title>
+      <link>https://GregoireMialon.github.io/authors/g.-mialon/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/g.-mialon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Mairal</title>
+      <link>https://GregoireMialon.github.io/authors/j.-mairal/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/j.-mairal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Selosse</title>
+      <link>https://GregoireMialon.github.io/authors/m.-selosse/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/m.-selosse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustave Ronteix</title>
+      <link>https://GregoireMialon.github.io/authors/gustave-ronteix/</link>
+      <pubDate>Tue, 02 Mar 2021 11:43:22 +0100</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/gustave-ronteix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. d&#39;Aspremont</title>
+      <link>https://GregoireMialon.github.io/authors/a.-daspremont/</link>
+      <pubDate>Mon, 22 Jun 2020 11:09:52 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/a.-daspremont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Bietti*</title>
+      <link>https://GregoireMialon.github.io/authors/a.-bietti/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/a.-bietti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://GregoireMialon.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Postdoctoral Researcher at &lt;a href=&#34;https://ai.facebook.com/&#34;&gt;Meta AI&lt;/a&gt; in Paris, where I am advised by Yann LeCun. My research currently focuses on self-supervised learning. I am also curious about technology and its implications in politics and entrepreneurship. I sometimes write on these subjects for different organizations such as the &lt;a href=&#34;https://legrandcontinent.eu/fr/&#34;&gt;Group for Geopolitical Studies&lt;/a&gt;, a european think-tank hosted at &lt;a href=&#34;https://www.ens.fr/&#34;&gt;École normale supérieure&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prior to that, I was a PhD Student in Machine Learning in the &lt;a href=&#34;https://www.di.ens.fr/sierra/index.php&#34;&gt;Sierra research team&lt;/a&gt; at &lt;a href=&#34;https://www.inria.fr/fr&#34;&gt;Inria&lt;/a&gt;, where I was co-advised by &lt;a href=&#34;https://lear.inrialpes.fr/people/mairal/&#34;&gt;Julien Mairal&lt;/a&gt; and &lt;a href=&#34;https://www.di.ens.fr/~aspremon/&#34;&gt;Alexandre d&#39;Aspremont&lt;/a&gt;. During my PhD, I proposed architectural improvements for learning from small or medium sized datasets such as scientific data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

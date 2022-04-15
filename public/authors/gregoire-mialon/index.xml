@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grégoire Mialon</title>
+    <link>https://GregoireMialon.github.io/authors/gregoire-mialon/</link>
+      <atom:link href="https://GregoireMialon.github.io/authors/gregoire-mialon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grégoire Mialon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 14:02:16 +0200</lastBuildDate>
+    <image>
+      <url>https://GregoireMialon.github.io/images/icon_hu724016fbcd0c8098ec14eb22a3f2bfcd_9874_512x512_fill_lanczos_center_2.png</url>
+      <title>Grégoire Mialon</title>
+      <link>https://GregoireMialon.github.io/authors/gregoire-mialon/</link>
+    </image>
+    
+    <item>
+      <title>L&#39;oeil d&#39;Apple dans nos iPhones ?</title>
+      <link>https://GregoireMialon.github.io/post/apple/</link>
+      <pubDate>Fri, 15 Apr 2022 14:02:16 +0200</pubDate>
+      <guid>https://GregoireMialon.github.io/post/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le logiciel libre, outil de soft power et de lutte contre le Covid-19</title>
+      <link>https://GregoireMialon.github.io/post/alex-itw/</link>
+      <pubDate>Tue, 02 Mar 2021 11:43:22 +0100</pubDate>
+      <guid>https://GregoireMialon.github.io/post/alex-itw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le prix Turing 2019 souligne le retard de l’Europe dans le numérique</title>
+      <link>https://GregoireMialon.github.io/post/turing-prize/</link>
+      <pubDate>Sun, 14 Apr 2019 20:03:11 +0100</pubDate>
+      <guid>https://GregoireMialon.github.io/post/turing-prize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La stratégie du Royaume-Uni sur l’IA remet en question la fuite des cerveaux vers les États-Unis</title>
+      <link>https://GregoireMialon.github.io/post/skillgap/</link>
+      <pubDate>Sun, 24 Mar 2019 14:21:41 +0100</pubDate>
+      <guid>https://GregoireMialon.github.io/post/skillgap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

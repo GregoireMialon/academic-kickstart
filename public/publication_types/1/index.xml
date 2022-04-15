@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Grégoire Mialon</title>
+    <link>https://GregoireMialon.github.io/publication_types/1/</link>
+      <atom:link href="https://GregoireMialon.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://GregoireMialon.github.io/images/icon_hu724016fbcd0c8098ec14eb22a3f2bfcd_9874_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://GregoireMialon.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Screening Data Points in Empirical Risk Minimization via Ellipsoidal Regions and Safe Loss Functions</title>
+      <link>https://GregoireMialon.github.io/publication/screening/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/publication/screening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Kernel Perspective for Regularizing Deep Neural Networks</title>
+      <link>https://GregoireMialon.github.io/publication/a-kernel-perspective-for-regularizing-deep-neural-networks/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://GregoireMialon.github.io/publication/a-kernel-perspective-for-regularizing-deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
