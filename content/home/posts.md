@@ -59,7 +59,7 @@ subtitle = "Notes I wrote (in French) for various organizations."
   # text_color_light = true  
 
 [design.spacing]
- padding = ["40px", "0", "40px", "0"]  
+ padding = ["20px", "0", "20px", "0"]  
 
 [advanced]
  # Custom CSS. 
@@ -67,4 +67,5 @@ subtitle = "Notes I wrote (in French) for various organizations."
  
  # CSS class.
  css_class = ""
+
 +++

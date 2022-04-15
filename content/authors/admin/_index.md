@@ -72,6 +72,7 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
 I am a Postdoctoral Researcher at [Meta AI](https://ai.facebook.com/) in Paris, where I am advised by Yann LeCun. My research currently focuses on self-supervised learning. I am also curious about technology and its implications in politics and entrepreneurship. I sometimes write on these subjects for different organizations such as the [Group for Geopolitical Studies](https://legrandcontinent.eu/fr/), a european think-tank hosted at [École normale supérieure](https://www.ens.fr/).
