@@ -11,5 +11,3 @@ header:
   caption: "test"
   image: ""
 ---
-
-Photo credit of avatar: Marion Germa

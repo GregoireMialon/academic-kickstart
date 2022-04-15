@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 300  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = "Notes I wrote (in French) for the [Group for Geopolitical Studies.](https://legrandcontinent.eu/fr/)"
+subtitle = "Notes I wrote (in French) for various organizations."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

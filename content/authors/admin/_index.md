@@ -11,29 +11,26 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Inria Sierra - École normale supérieure
-  url: "https://www.di.ens.fr/sierra/index.php"
-- name: Inria Thoth
-  url: "https://thoth.inrialpes.fr/"
+- name: Meta AI 
+  url: "https://ai.facebook.com/"
 # Short bio (displayed in user profile at end of posts)
-bio: My name is Grégoire and I am currently a third-year PhD Student at Inria and Ecole Normale Supérieure (Paris), where I am co-advised by Julien Mairal and Alexandre d'Aspremont. 
-
+bio: My name is Grégoire and I am a Postdoctoral Researcher at Meta AI.
+ 
 interests:
-- Machine learning (Kernel Methods, Deep Learning)
-- Natural Language Processing 
-- Causality 
-- Convex Optimization
+- Self-supervised learning
+- Kernel methods
+- Machine learning for Fundamental Science
 - Technology policies and Entrepreneurship
 
 education:
   courses:
   - course: PhD in Machine Learning 
     institution: Inria 
-    year:
+    year: 2022
   - course: MSc in Machine Learning (MVA)
     institution: ENS Paris-Saclay
     year: 2018 
@@ -55,9 +52,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mialon_gregoire 
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai 
+  link: https://scholar.google.com/citations?user=6hie6ZIAAAAJ&hl=fr
 - icon: github
   icon_pack: fab
   link: https://github.com/GregoireMialon 
@@ -77,5 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year PhD Student in Machine Learning in the [Sierra research team](https://www.di.ens.fr/sierra/index.php) at [Inria](https://www.inria.fr/fr), where I am co-advised by [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) and [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon/). I also depend on Inria [Thoth research team](https://thoth.inrialpes.fr/). My PhD focuses on designing data and/or memory efficient learning algorithms, e.g, in natural language processing (NLP), using tools from kernel methods, optimal transport or convex optimization. I am also interested in causality and its interfaces with machine learning. Finally, I am curious about technology and its implications in politics and entrepreneurship. I sometimes write on these subjects for the [Group for Geopolitical Studies](https://legrandcontinent.eu/fr/), a european think-tank hosted at [École normale supérieure](https://www.ens.fr/).
+I am a Postdoctoral Researcher at [Meta AI](https://ai.facebook.com/) in Paris, where I am advised by Yann LeCun. My research currently focuses on self-supervised learning. I am also curious about technology and its implications in politics and entrepreneurship. I sometimes write on these subjects for different organizations such as the [Group for Geopolitical Studies](https://legrandcontinent.eu/fr/), a european think-tank hosted at [École normale supérieure](https://www.ens.fr/).
+
+Prior to that, I was a PhD Student in Machine Learning in the [Sierra research team](https://www.di.ens.fr/sierra/index.php) at [Inria](https://www.inria.fr/fr), where I was co-advised by [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) and [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon/). During my PhD, I proposed architectural improvements for learning from small or medium sized datasets such as scientific data. 
 
